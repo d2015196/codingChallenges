@@ -1,0 +1,13 @@
+Hi Diana,
+
+Nice speaking with you today! Here is the challenge that Dave mentioned:
+
+Write a Python program that:
+
+- Takes the path to a PGM formatted image file on the command line (can assume 8-bit PGMs)
+- Overlays a smiley face on the image
+- Writes the image out to another PGM file
+
+Please provide source code and a makefile. See if you can avoid using any special libraries to read and write the image files!
+
+Thanks!
